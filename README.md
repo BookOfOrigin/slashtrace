@@ -1,11 +1,6 @@
 # SlashTrace - Awesome error handler
 
-[![Build Status](https://travis-ci.org/slashtrace/slashtrace.svg?branch=master)](https://travis-ci.org/slashtrace/slashtrace)
-[![Code Coverage](https://codecov.io/gh/slashtrace/slashtrace/branch/master/graph/badge.svg)](https://codecov.io/gh/slashtrace/slashtrace)
-
----
-
-[![Screenshot](https://slashtrace.com/demo.png)](https://slashtrace.com/demo.php)
+Updated version to make slash trace work with PHP 8+
 
 ---
 
@@ -18,7 +13,7 @@ When you're done with local debugging, you can configure SlashTrace to send erro
 1. Install using Composer:
 
    ```
-   composer require slashtrace/slashtrace
+   composer require bookoforigin/slashtrace
    ```
     
 2. Capture errors:
